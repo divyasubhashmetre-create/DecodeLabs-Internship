@@ -1,0 +1,50 @@
+# Student Data Cleaning Project
+
+## Project Overview
+
+This project focuses on cleaning and preparing student data using Microsoft Excel. The dataset was examined for missing values, duplicate records, and formatting issues to improve data quality and accuracy.
+
+## Objectives
+
+* Identify and remove duplicate records.
+* Handle missing or incorrect data.
+* Standardize data formats.
+* Prepare the dataset for analysis.
+
+## Tools Used
+
+* Microsoft Excel
+* GitHub
+
+## Dataset
+
+The dataset contains student information such as:
+
+* Student ID
+* Name
+* Gender
+* Age
+* Attendance
+* Marks
+
+## Data Cleaning Steps
+
+1. Removed duplicate records.
+2. Checked for missing values.
+3. Corrected formatting inconsistencies.
+4. Validated data accuracy.
+5. Saved the cleaned dataset.
+
+## Files Included
+
+* student_data_raw.xlsx
+* Divya_Project1_Data_Cleaning_Report.pdf
+* README.md
+
+## Results
+
+The dataset was successfully cleaned and prepared for further analysis. Data quality was improved by removing errors and duplicates.
+
+## Conclusion
+
+Data cleaning is an essential step in data analysis. This project demonstrates how raw data can be transformed into a reliable and usable dataset.
